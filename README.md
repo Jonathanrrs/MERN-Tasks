@@ -17,3 +17,5 @@ Se utilizó Materialize.
 - babel-loader
 - babel-preset-react
 - babel-preset-env
+
+![Jonathan Ruiz](https://repository-images.githubusercontent.com/276754520/76078580-bc88-11ea-990c-fcafe63d16c0)
